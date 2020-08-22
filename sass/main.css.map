@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,CAAC,CAAC;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,SAAS,EAAE,IAAI;EACf,IAAI,EAAE,OAAO;EACb,cAAc,EAAE,QAAQ;CAAG;;ACN5B,UAAU;EACN,WAAW,EAAE,cAAc;EAC3B,GAAG,EAAE,uEAAuE;;;ACFhF,AAAA,MAAM,CAAC;EACH,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,OAAO;EAEnB,WAAW,EAAE,UAAU;EACvB,UAAU,EAAE,MAAM;EAClB,KAAK,ELCF,OAAO;CKKc;;AAZ5B,AAOI,MAPE,CAOF,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;CAAG;;AAR1B,AASI,MATE,CASF,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;CAAG;;AAV1B,AAWI,MAXE,CAWF,EAAE,CAAC,EAAE,CAAC;EACF,OAAO,EAAE,MAAM;CAAG;;ACZ1B,AAAA,cAAc,CAAC;EACX,UAAU,ENEP,OAAO;EMDV,MAAM,EAAE,IAAI;CAAG",
+    "sources": [
+        "main.sass",
+        "1-helpers/_variables.sass",
+        "1-helpers/_functions.sass",
+        "1-helpers/_mixins.sass",
+        "3-basics/_reset.sass",
+        "3-basics/_typography.sass",
+        "4-layout/_header.sass",
+        "4-layout/_about.sass"
+    ],
+    "names": [],
+    "file": "main.css"
+}

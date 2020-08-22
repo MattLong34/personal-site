@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+@font-face {
+  font-family: 'Varela-Round';
+  src: url(https://fonts.googleapis.com/css2?family=Varela+Round&display=swap);
+}
+
+header {
+  height: 100vh;
+  background: #3be8b0;
+  font-family: sans-serif;
+  text-align: center;
+  color: #6a737b;
+}
+
+header h1 {
+  font-size: 5rem;
+}
+
+header h2 {
+  font-size: 3rem;
+}
+
+header ul li {
+  display: inline;
+}
+
+#about-section {
+  background: #1aafd0;
+  height: 90vh;
+}
+/*# sourceMappingURL=main.css.map */
